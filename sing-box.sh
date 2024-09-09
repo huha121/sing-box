@@ -4898,7 +4898,7 @@ function Update_certificate() {
 function main_menu() {
 echo "╔════════════════════════════════════════════════════════════════════════╗"
 echo -e "║ ${CYAN}原作者${NC}： TinrLin                                                       ║"
-echo -e "║ ${CYAN}项目地址${NC}: https://github.com/smith-stack                  Version：1.3   ║"
+echo -e "║ ${CYAN}项目地址${NC}: https://github.com/smith-stack/sing-box       Version：1.3   ║"
 echo "╠════════════════════════════════════════════════════════════════════════╣"
 echo "║ 请选择要执行的操作：                                                   ║"
 echo -e "║${CYAN} [1]${NC}  SOCKS                             ${CYAN} [2]${NC}   Direct                   ║"
